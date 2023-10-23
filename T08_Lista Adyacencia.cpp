@@ -4,6 +4,8 @@
 #include <vector>
 using namespace std;
 
+//Implementacion de lista de adyacencia a programa conjunto 
+
 void agregar(vector<vector<int> >&vec,int x){
 	int sem=0,cal=0;
 	cout<<"Dime en que semestre esta el alumno: "<<1+x<<endl;
