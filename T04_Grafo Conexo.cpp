@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+//modificacion grafo conexo 
+
 int main (){
 	int mat[6][6]={
 	{0,0,0,1,1,0},//A
